@@ -1,0 +1,17 @@
+
+ .msg_cell {
+	word-wrap: break-word;
+	border: #ccc thin solid;
+	vertical-align: top;
+	padding: 10px;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	font-size: 18px;
+ }
+ 
+input[type="search"] {
+    outline-offset: -2px;
+    -webkit-appearance: none;
+    border: 1px solid #000;
+	border-radius: 4px;
+}
